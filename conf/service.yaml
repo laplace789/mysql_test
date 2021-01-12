@@ -1,0 +1,6 @@
+mysql:
+  Server:  "127.0.0.1"
+  Port: "3315"
+  User: "benhuang"
+  Database: "test"
+  Table: "dim_handsets"
